@@ -1,0 +1,29 @@
+/* body {
+    background: red;
+} */
+
+/* body {
+  font-size: 24px;
+  font-family: Arial, Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: rgb(14, 0, 139);
+  background: lightgreen;
+} */
+
+main {
+  border: 5px dotted brown;
+  width: 25%;
+}
+
+header {
+  font-size: 2em;
+}
+/* h1 {
+  font-size: 40px;
+  
+} */
+
+section {
+  border: 5px dashed green;
+  width: 50vw;
+}
