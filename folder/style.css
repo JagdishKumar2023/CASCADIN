@@ -1,0 +1,11 @@
+.dotted {
+  border-style: dotted;
+  margin-left: 100px;
+  background: tomato;
+}
+
+.dashed {
+  border-style: dashed;
+  margin-left: 100px;
+  background: orange;
+}
