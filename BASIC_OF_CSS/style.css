@@ -1,0 +1,70 @@
+/* h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+} */
+
+/* body {
+  background-image: url("bgdesert.jpg");
+} */
+/* 
+p {
+  color: red;
+} */
+
+/* #p1 {
+  color: green;
+}
+
+.button {
+  color: blue;
+  background: red;
+} */
+
+/* .geen-text {
+  color: green;
+  text-align: center;
+}
+
+#h {
+  font-size: 100px;
+  text-align: center;
+}
+
+.underline-h {
+  text-decoration: underline;
+} */
+
+#bg {
+  background-color: yellow;
+}
+
+#p {
+  color: brown;
+  text-align: center;
+  font-size: 80px;
+  padding-top: 150px;
+}
+
+body {
+  /* background-color: red; */
+}
+
+#p2 {
+  text-align: center;
+  color: brown;
+  font-size: 70px;
+  /* padding-top: 100px; */
+  /* margin-bottom: 100px; */
+  /* padding-bottom: 150; */
+}
+
+#bg{
+  background-image: url(./../images/box5_image.jpg);
+}
