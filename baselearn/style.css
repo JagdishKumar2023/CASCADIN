@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
   background-color: green;
 }
 
@@ -8,4 +8,16 @@ div {
 
 p {
   background-color: yellow;
+} */
+
+/* body {
+  background-image: url("bgdesert.jpg");
+} */
+
+p {
+  color: red;
+}
+
+.p1 {
+  color: green;
 }
