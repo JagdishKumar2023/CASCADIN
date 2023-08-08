@@ -13,11 +13,20 @@ p {
 /* body {
   background-image: url("bgdesert.jpg");
 } */
-
+/* 
 p {
   color: red;
+} */
+
+/* #p1 {
+  color: green;
 }
 
-.p1 {
+.button {
+  color: blue;
+  background: red;
+} */
+
+.geen-text {
   color: green;
 }
