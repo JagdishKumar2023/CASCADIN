@@ -50,26 +50,26 @@ p {
   background-color: white;
 }
 
-#p {
+/* #p {
   color: brown;
   text-align: center;
-  font-size: 80px;
+  font-size: 80px; */
   /* padding-top: 150px; */
-}
+/* } */
 /* 
 body {
   background-color: red;
 
 } */
 
-#p2 {
+/* #p2 {
   text-align: center;
   color: brown;
-  font-size: 70px;
+  font-size: 70px; */
   /* padding-top: 100px; */
   /* margin-bottom: 100px; */
   /* padding-bottom: 150; */
-}
+/* } */
 /* 
 /* /* #bg {
   background-image: url(./../asset\ 24.png);
@@ -87,11 +87,11 @@ body {
   border-top-left-radius: 5px;
   border-bottom-right-radius: 8px ;
 } */
-
+/* 
 body {
   border: 1px solid red;
   height: 1000px;
-}
+} */
 
 /* #div1 {
   background-color: blueviolet;
@@ -101,15 +101,15 @@ body {
   max-height: 300px; */
 
 /* } */
-#div {
-  border: 1px solid red;
+/* #div { */
+  /* border: 1px solid red; */
   /* padding-top: 50px;
   padding-left: 20px;
   padding-right: 10%;
   padding-left: 20% ;  
   font-size: 20px; */
-  padding: 25px 50px;
-}
+  /* padding: 25px 50px; */
+/* } */
 
 /* #border {
   margin-top: 80px;
@@ -118,44 +118,55 @@ body {
   background-color: aqua;
 } */
 
-.div1 {
+/* .div1 {
   border: 1px solid red;
   /* padding-top: 50px; */
   /* padding-bottom: 20px; */
   /* padding-left: 10%; */
   /* padding-right: 90px; */
-  font-size: 20px;
-  padding: 40px 50px 30px 35px;
-}
+  /* font-size: 20px; */
+  /* padding: 40px 50px 30px 35px; */ */
+/* } */
 
 body {
   border: 5px dotted black;
 }
 
-#marg {
+/* #marg { */
   /* margin-top: 50px;
   margin-right: 40px;
   margin-bottom: 25px;
   margin-left: 50px; */
   /* margin: 25px 12px 40px 60px; */
-}
+
  
- #marg2 { 
+ /* #marg2 { 
    width: 20px;
-   margin-top: 50px;
+   margin-top: 50px; */
    /* display flex: ; */
-} 
+ 
 /* 
 #colsp{
   /* margin-bottom: 30px; */
 
   #text{
-    width: 500px;
+    width: 200px;
+    height: 300px;
     border: 1px solid black;
     color: blue;
-    text-align: justify;
+    text-align: center;
+    text-decoration: uppercase;
+    /* line-height: 60px; */
+    word-spacing: 15px;
+    /* white-space: nowrap; */  
+    word-wrap: break-word;}
+
+  #shadow {
+    font-size: 70px;
+    text-shadow: 3px 8px 5px darkgreen;
+    background-color: lightgreen;
   }
   
-  #img {
-    background-image: images/amazon_logo.png
-  }
+  
+  
+  
