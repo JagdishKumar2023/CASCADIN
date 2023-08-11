@@ -1,0 +1,49 @@
+a {
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* a:link {
+  color: yellowgreen;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: rgb(255, 0, 221);
+}
+
+a:active {
+  color: red;
+} */
+
+h1 {
+  font-weight: regular;
+  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Borel", cursive;
+  font-family: "EB Garamond", serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Source Code Pro", monospace;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+  font-variant: small-caps;
+  /* background-color: aqua; */
+  /* background-image: url(/images/box6_image.jpg); */
+  font-size: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Borel", cursive;
+  font-family: "EB Garamond", serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Source Code Pro", monospace;
+}
